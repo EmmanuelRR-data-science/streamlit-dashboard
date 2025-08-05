@@ -40,8 +40,8 @@ El dashboard interactivo, construido con **Streamlit**, permite a los usuarios:
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/EmmanuelRR-data-science/dasboard-streamlit.git](https://github.com/EmmanuelRR-data-science/dashboard-streamlit.git)
-    cd dashboard-streamlit
+    git clone [https://github.com/EmmanuelRR-data-science/streamlit-dashboard.git](https://github.com/EmmanuelRR-data-science/streamlit-dashboard.git)
+    cd streamlit-dashboard
     ```
 2.  Instala las dependencias necesarias:
     ```bash
