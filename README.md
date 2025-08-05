@@ -56,7 +56,7 @@ El dashboard interactivo, construido con **Streamlit**, permite a los usuarios:
 
 <h2 align="center">Dashboard en Vivo</h2>
 <p align="center">
-  [Aquí puedes poner un enlace al dashboard publicado en Streamlit Community Cloud.]
+  [[Aquí puedes poner un enlace al dashboard publicado en Streamlit Community Cloud.](https://dashboard-emmanuel-rr.streamlit.app/)]
 </p>
 
 ---
